@@ -1,0 +1,33 @@
+body {
+    background-color: #f2f4f7;
+    font-family: Arial, sans-serif;
+}
+
+#container {
+    width: 70%;
+    background-color: white;
+    margin: 30px auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#name {
+    text-align: center;
+    font-size: 28px;
+}
+
+#title {
+    text-align: center;
+    color: gray;
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #0b5ed7;
+    margin-top: 20px;
+}
+
+p, li {
+    font-size: 14px;
+    color: #333;
+}
